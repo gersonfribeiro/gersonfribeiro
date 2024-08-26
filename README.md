@@ -40,7 +40,7 @@ Sou um apaixonado por programação e atualmente estudo Ciência da Computação
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
-  <img src="https://img.icons8.com/?size=100&id=5mbMwDZ796xj&format=png&color=000000" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
+  <img src="https://img.icons8.com/?size=100&id=hCWb1IvpcBZ0&format=png&color=000000" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
   
 
 ### 📫 Como chegar até mim
