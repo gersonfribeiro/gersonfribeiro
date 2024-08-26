@@ -7,7 +7,7 @@ Sou um apaixonado por programação e atualmente estudo Ciência da Computação
 
 ### 👨‍💻 Atualmente
 
-- 🔭 Trabalho na **Sier Móveis** na área de cronoanálise, focando na quantificação da capacidade produtiva da indústria.
+- 🔭 Trabalho na **[Sier Móveis](https://siermoveis.com.br/port/)** na área de cronoanálise, focando na quantificação da capacidade produtiva da indústria.
 - 🌱 Estou aprendendo:
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
@@ -28,7 +28,7 @@ Sou um apaixonado por programação e atualmente estudo Ciência da Computação
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
 
-- ⚡ Especialidades
+- ⚡ Minhas especialidades
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
@@ -42,8 +42,8 @@ Sou um apaixonado por programação e atualmente estudo Ciência da Computação
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
   <img src="https://img.icons8.com/?size=100&id=hCWb1IvpcBZ0&format=png&color=000000" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
   <img src="https://img.icons8.com/?size=100&id=fKkr9tyfzD06&format=png&color=000000" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
-  
-  
+
+##
 
 ### 📫 Como chegar até mim
 
