@@ -48,10 +48,7 @@ Sou um apaixonado por programação e atualmente estudo Ciência da Computação
 
 <div>
 <a href="https://www.youtube.com/@gersonfernandesribeiro6474" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-
-<!--
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank </a> -->
-
+<a href="https://www.instagram.com/gersin_aa?igsh=aWc0bnhtNXY3d2Z0" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank </a> 
 <a href = "mailto:gersonfernandesribeiro48@mail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gerson-fernandes-ribeiro-a813ba276/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
