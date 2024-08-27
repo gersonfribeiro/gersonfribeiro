@@ -54,6 +54,9 @@ Sou um apaixonado por programação e atualmente estudo Ciência da Computação
 - <a href="https://www.instagram.com/gersin_aa?igsh=aWc0bnhtNXY3d2Z0" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 
+##
+
+
 #### Minhas estatísticas ⚡
 
 <div>
