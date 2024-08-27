@@ -28,11 +28,13 @@ Sou um apaixonado por programação e atualmente estudo Ciência da Computação
 - Swagger para documentação das API's <br>
 
 
-[![My Skills](https://skillicons.dev/icons?i=spring,angular,nodejs,vite,vue,aws,docker,postman,gradle,maven,kotlin,rabbitmq,git,heroku)](https://skillicons.dev)
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg" width="40" height="40" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
-    
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="40" height="40" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,angular,nodejs,vite,vue,aws,docker,postman,gradle,maven,kotlin,rabbitmq,git,heroku" alt="My Skills" />
+  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg" width="40" height="40" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px; margin-left: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="40" height="40" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px; margin-left: 10px;"/>
+</p>
     
 
   
