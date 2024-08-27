@@ -27,7 +27,7 @@ Sou um apaixonado por programação e atualmente estudo Ciência da Computação
 - Hospedagens de projetos e bancos de dados <br>
 - Swagger para documentação das API's <br>
 
--
+
 [![My Skills](https://skillicons.dev/icons?i=spring,angular,nodejs,vite,vue,aws,docker,postman,gradle,maven,kotlin,rabbitmq,git,heroku)](https://skillicons.dev)
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg" width="40" height="40" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
@@ -47,11 +47,9 @@ Sou um apaixonado por programação e atualmente estudo Ciência da Computação
 - IDE utilizada no início da minha jornada como developer assim como minha linguagem inicial.
 - pilares basicos de marcação e estilização de hyper texto.
 - GitHub como a rede social que eu mais utilizo nos dias atuais.
-- Minha plataforma de gestão de tarefas.
+- Gestão de tarefas com o Click Up.
 
-[![My Skills](https://skillicons.dev/icons?i=java,idea,mysql,postgres,python,jupyter,anaconda,pycharm,flask,vscode,js,html,css,github)](https://skillicons.dev)
-
-  <img src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
+[![My Skills](https://skillicons.dev/icons?i=java,idea,mysql,postgres,python,anaconda,pycharm,flask,vscode,js,html,css,github)](https://skillicons.dev)
 
 
 ### 📫 Como chegar até mim
