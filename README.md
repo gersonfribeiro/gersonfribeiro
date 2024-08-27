@@ -11,7 +11,7 @@ Sou um apaixonado por programação e atualmente estudo Ciência da Computação
 
 - 🔭 Trabalho na **[Sier Móveis](https://siermoveis.com.br/port/)** na área de cronoanálise, focando na quantificação da capacidade produtiva da indústria.
   
-#### 🌱 Estou aprendendo:
+### 🌱 Estou aprendendo:
 - Spring como framework backend principalmente na construção de API's restfull e persistência de dados. <br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
 - Angular como framework frontend solidificando o melhor ambiente possível para projetos com Java <br><br>
@@ -48,7 +48,7 @@ Sou um apaixonado por programação e atualmente estudo Ciência da Computação
 ##
 
 
-#### ⚡ Minhas especialidades
+### ⚡ Minhas especialidades
 - Java sendo a minha principal linguagem de programação em meus estudos, projetos, realizações pessoais... <br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
 - IntelliJ IDEA como a minha developer tool mais utilizada <br><br>
