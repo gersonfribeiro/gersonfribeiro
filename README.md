@@ -4,6 +4,7 @@
 
 Sou um apaixonado por programação e atualmente estudo Ciência da Computação no [Centro Universitário Governador Ozanam Coelho (UNIFAGOC)](https://unifagoc.edu.br/?gad_source=1&gclid=EAIaIQobChMI786MxOSTiAMVuV5IAB1siD3cEAAYASAAEgJdXvD_BwE), em [Ubá, MG](https://www.google.com/maps/place/UNIFAGOC+-+Centro+Universit%C3%A1rio+Governador+Ozanam+Coelho/@-21.1101108,-42.9599958,17z/data=!3m1!4b1!4m6!3m5!1s0xa31b93349a8239:0x398e6341fcf9a284!8m2!3d-21.1101108!4d-42.9574209!16s%2Fg%2F11f2b0w2w0?authuser=0&entry=ttu&g_ep=EgoyMDI0MDgyMS4wIKXMDSoASAFQAw%3D%3D). Estou em constante busca por conhecimento, visando alcançar a excelência na área de Software Engineering, um sonho que persigo com determinação.
 
+
 ## 
 
 
@@ -17,49 +18,26 @@ Sou um apaixonado por programação e atualmente estudo Ciência da Computação
 - Node para modulos necessários para o desenvolvimento de alguns projetos <br>
 - Vite e Vue, são uma ferramentas de construção de projetos de frontend que se destina a oferecer uma experiência de desenvolvimento mais rápida e leve para projetos de web modernos. <br>
 - AWS para serviço de Cloud <br>
-- Swagger para documentação das API's <br>
 - Docker para criação dos containers e imagens para deploy <br>
 - Postman também pode ser utilizado para documentação de API mas tenho usado mais para realizar testes na persistência de dados <br>
 - Builders para os projetos principalment com Java e Spring no IntelliJ <br>
-- Hospedagens de projetos e bancos de dados <br>
-- Ferramenta para teste de software <br>
 - Kotlin é a linguagem que faz parte do nicho do IntelliJ rodando junto com o Java sendo um dos meus focos futuros como co-linguagem  <br>
 - Messageria <br>
 - Git é importante para o versionamento de código, atualmente consigo usar apenas o GitHub desktop, necessitando de aprender Git por linhas de comando <br>
+- Hospedagens de projetos e bancos de dados <br>
+- Swagger para documentação das API's <br>
+- Ferramenta para teste de software <br>
 
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
+[![My Skills](https://skillicons.dev/icons?i=spring,angular,nodejs,vite,vue,aws,docker,postman,gladle,maven,kotlin,rabbitmq,git,heroku)](https://skillicons.dev)
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original-wordmark.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karma/karma-original.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
 
-
+  
 ##
 
 
@@ -69,39 +47,14 @@ Sou um apaixonado por programação e atualmente estudo Ciência da Computação
 - Os bancos de dados MySQL e PostgreSQL  sendo os que possuo maior familiaridade.
 - Meus projetos usando a linguagem de programação Python e suas ferramentas.
 - IDE utilizada no início da minha jornada como developer assim como minha linguagem inicial.
-- Minha plataforma de gestão de tarefas.
+- pilares basicos de marcação e estilização de hyper texto.
 - GitHub como a rede social que eu mais utilizo nos dias atuais.
+- Minha plataforma de gestão de tarefas.
 
+[![My Skills](https://skillicons.dev/icons?i=java,idea,mysql,postgres,python,jupyter,anaconda,pycharm,flask,vscode,js,html,css,github)](https://skillicons.dev)
 
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
-
-  <img src="https://img.icons8.com/?size=100&id=hCWb1IvpcBZ0&format=png&color=000000" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
-
-  <img src="https://img.icons8.com/?size=100&id=fKkr9tyfzD06&format=png&color=000000" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
   <img src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
 
-##
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma)](https://skillicons.dev)
-
-##
 
 ### 📫 Como chegar até mim
 
@@ -131,4 +84,14 @@ Sou um apaixonado por programação e atualmente estudo Ciência da Computação
 
 Here are some ideas to get you started:
 
+-->
+
+<!-- 
+##
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma)](https://skillicons.dev)
+
+
+##
 -->
