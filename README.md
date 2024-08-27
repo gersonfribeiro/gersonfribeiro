@@ -15,7 +15,7 @@ Sou um apaixonado por programação e atualmente estudo Ciência da Computação
 ### 🌱 Estou aprendendo:
 - Spring como framework backend principalmente na construção de API's restfull e persistência de dados.
 - Angular como framework frontend solidificando o melhor ambiente possível para projetos com Java.
-- Node para modulos necessários para o desenvolvimento de alguns projetos.
+- Node para módulos necessários para o desenvolvimento de alguns projetos.
 - Vite e Vue, são ferramentas de construção de projetos de frontend que se destina a oferecer uma experiência de desenvolvimento mais rápida e leve para projetos web modernos.
 - AWS para serviço de Cloud.
 - Docker para criação dos containers e imagens para deploy.
@@ -60,7 +60,7 @@ Sou um apaixonado por programação e atualmente estudo Ciência da Computação
 ##
 
 
-### 📫 Como chegar até mim
+### 📫 Contato
 
 
 - <a href="https://www.linkedin.com/in/gerson-fernandes-ribeiro-a813ba276/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
