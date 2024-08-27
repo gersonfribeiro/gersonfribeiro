@@ -29,24 +29,24 @@ Sou um apaixonado por programação e atualmente estudo Ciência da Computação
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
 
 - ## ⚡ Minhas especialidades
-- Java sendo a minha principal linguagem de programação em meus estudos, projetos, realizações pessoais...
+- Java sendo a minha principal linguagem de programação em meus estudos, projetos, realizações pessoais... <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
-- IntelliJ IDEA como a minha developer tool mais utilizada
+- IntelliJ IDEA como a minha developer tool mais utilizada <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
-- Os bancos de dados MySQL e PostgreSQL  sendo os que possuo maior familiaridade
+- Os bancos de dados MySQL e PostgreSQL  sendo os que possuo maior familiaridade <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
-- Meus projetos usando a linguagem de programação Python e suas ferramentas
+- Meus projetos usando a linguagem de programação Python e suas ferramentas <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
   <img src="https://img.icons8.com/?size=100&id=hCWb1IvpcBZ0&format=png&color=000000" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
-- IDE utilizada no início da minha jornada como developer assim como minha linguagem inicial  
+- IDE utilizada no início da minha jornada como developer assim como minha linguagem inicial  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
-- Minha plataforma de gestão de tarefas
+- Minha plataforma de gestão de tarefas <br>
   <img src="https://img.icons8.com/?size=100&id=fKkr9tyfzD06&format=png&color=000000" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
-- GitHub como a rede social que eu mais utilizo nos dias atuais
+- GitHub como a rede social que eu mais utilizo nos dias atuais <br>
   <img src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
 
 ##
