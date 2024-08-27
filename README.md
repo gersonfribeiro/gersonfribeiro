@@ -13,19 +13,19 @@ Sou um apaixonado por programação e atualmente estudo Ciência da Computação
 - 🔭 Trabalho na **[Sier Móveis](https://siermoveis.com.br/port/)** na área de cronoanálise, focando na quantificação da capacidade produtiva da indústria.
   
 ### 🌱 Estou aprendendo:
-- Spring como framework backend principalmente na construção de API's restfull e persistência de dados. <br>
-- Angular como framework frontend solidificando o melhor ambiente possível para projetos com Java <br>
-- Node para modulos necessários para o desenvolvimento de alguns projetos <br>
-- Vite e Vue, são uma ferramentas de construção de projetos de frontend que se destina a oferecer uma experiência de desenvolvimento mais rápida e leve para projetos de web modernos. <br>
-- AWS para serviço de Cloud <br>
-- Docker para criação dos containers e imagens para deploy <br>
-- Postman também pode ser utilizado para documentação de API mas tenho usado mais para realizar testes na persistência de dados <br>
-- Builders para os projetos principalment com Java e Spring no IntelliJ <br>
-- Kotlin é a linguagem que faz parte do nicho do IntelliJ rodando junto com o Java sendo um dos meus focos futuros como co-linguagem  <br>
-- Messageria <br>
-- Git é importante para o versionamento de código, atualmente consigo usar apenas o GitHub desktop, necessitando de aprender Git por linhas de comando <br>
-- Hospedagens de projetos e bancos de dados <br>
-- Swagger para documentação das API's <br>
+- Spring como framework backend principalmente na construção de API's restfull e persistência de dados.
+- Angular como framework frontend solidificando o melhor ambiente possível para projetos com Java.
+- Node para modulos necessários para o desenvolvimento de alguns projetos.
+- Vite e Vue, são uma ferramentas de construção de projetos de frontend que se destina a oferecer uma experiência de desenvolvimento mais rápida e leve para projetos de web modernos.
+- AWS para serviço de Cloud.
+- Docker para criação dos containers e imagens para deploy.
+- Postman também pode ser utilizado para documentação de API mas tenho usado mais para realizar testes na persistência de dados.
+- Builders para os projetos principalment com Java e Spring no IntelliJ.
+- Kotlin é a linguagem que faz parte do nicho do IntelliJ rodando junto com o Java sendo um dos meus focos futuros como co-linguagem.
+- Messageria.
+- Git é importante para o versionamento de código, atualmente consigo usar apenas o GitHub desktop, necessitando de aprender Git por linhas de comando.
+- Hospedagens de projetos e bancos de dados.
+- Swagger para documentação das API's.
 
 
 <p align="center">
@@ -53,6 +53,9 @@ Sou um apaixonado por programação e atualmente estudo Ciência da Computação
 - Gestão de tarefas com o Click Up.
 
 [![My Skills](https://skillicons.dev/icons?i=java,idea,mysql,postgres,python,anaconda,pycharm,flask,vscode,js,html,css,github)](https://skillicons.dev)
+
+
+##
 
 
 ### 📫 Como chegar até mim
