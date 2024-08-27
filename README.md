@@ -31,7 +31,7 @@ Sou um apaixonado por programação e atualmente estudo Ciência da Computação
 
 [![My Skills](https://skillicons.dev/icons?i=spring,angular,nodejs,vite,vue,aws,docker,postman)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=gladle&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gradle)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=maven,kotlin,rabbitmq,git,heroku)](https://skillicons.dev)
 
