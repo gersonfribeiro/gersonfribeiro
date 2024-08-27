@@ -14,6 +14,7 @@ Sou um apaixonado por programação e atualmente estudo Ciência da Computação
   
 ### 🌱 Estou aprendendo:
 - Spring como framework backend principalmente na construção de API's restfull e persistência de dados.
+- Hibernate como um ORM para trabalhar com JPA.
 - Angular como framework frontend solidificando o melhor ambiente possível para projetos com Java.
 - Node para módulos necessários para o desenvolvimento de alguns projetos.
 - Vite e Vue, são ferramentas de construção de projetos de frontend que se destina a oferecer uma experiência de desenvolvimento mais rápida e leve para projetos web modernos.
@@ -30,7 +31,7 @@ Sou um apaixonado por programação e atualmente estudo Ciência da Computação
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,angular,nodejs,vite,vue,aws,docker,postman,gradle,maven,kotlin,rabbitmq,git,heroku" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=spring,hibernate,angular,nodejs,vite,vue,aws,docker,postman,gradle,maven,kotlin,rabbitmq,git,heroku" alt="My Skills"/>
   </a>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg" width="50" height="50" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px; margin-left: 10px;"/>
