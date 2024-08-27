@@ -29,15 +29,19 @@ Sou um apaixonado por programação e atualmente estudo Ciência da Computação
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
 
 - ⚡ Minhas especialidades
-
+Java sendo a minha principal linguagem de programação em meus estudos, projetos, realizações pessoais...
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
+IntelliJ IDEA como a minha developer tool mais utilizada
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
+Os bancos de dados MySQL e PostgreSQL  sendo os que possuo maior familiaridade
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
+Meus projetos usando a linguagem de programação Python e suas ferramentas
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
   <img src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
   <img src="https://img.icons8.com/?size=100&id=hCWb1IvpcBZ0&format=png&color=000000" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
