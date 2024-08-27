@@ -82,6 +82,9 @@ Sou um apaixonado por programação e atualmente estudo Ciência da Computação
 - GitHub como a rede social que eu mais utilizo nos dias atuais <br><br>
   <img src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" width="30" height="30" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
 
+##
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ##
 
