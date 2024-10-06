@@ -1,4 +1,4 @@
-## Olá, bem-vindo ao meu perfil! sou gay 👋
+## Olá, bem-vindo ao meu perfil! 👋
 
 ### Meu nome é Gerson Fernandes Ribeiro
 
