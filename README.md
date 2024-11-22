@@ -13,29 +13,24 @@ Sou um apaixonado por programação e atualmente estudo Ciência da Computação
 - 🔭 Trabalho na **[Sier Móveis](https://siermoveis.com.br/port/)** na área de cronoanálise, focando na quantificação da capacidade produtiva da indústria.
   
 ### 🌱 Estou aprendendo:
-- Spring como framework backend principalmente na construção de API's restfull e persistência de dados.
 - Hibernate como um ORM para trabalhar com JPA.
 - Angular como framework frontend solidificando o melhor ambiente possível para projetos com Java.
 - Node para módulos necessários para o desenvolvimento de alguns projetos.
 - Vite e Vue, são ferramentas de construção de projetos de frontend que se destina a oferecer uma experiência de desenvolvimento mais rápida e leve para projetos web modernos.
 - AWS para serviço de Cloud.
 - Docker para criação dos containers e imagens para deploy.
-- Postman pode ser utilizado para documentação de API's mas tenho usado para realizar testes na persistência de dados.
-- Builders para os projetos principalmente com Java e Spring no IntelliJ.
 - Kotlin é a linguagem que faz parte do nicho do IntelliJ rodando junto com o Java sendo um dos meus focos futuros como co-linguagem.
 - Messageria.
-- Git é importante para o versionamento de código, atualmente consigo usar apenas o GitHub desktop, necessitando de aprender Git por linhas de comando.
 - Hospedagens de projetos e bancos de dados.
-- Swagger para documentação das API's.
 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,hibernate,angular,nodejs,vite,vue,aws,docker,postman,gradle,maven,kotlin,rabbitmq,git,heroku" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=hibernate,angular,nodejs,vite,vue,aws,docker,kotlin,rabbitmq,heroku" alt="My Skills"/>
   </a>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg" width="50" height="50" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px; margin-left: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="50" height="50" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px; margin-left: 10px;"/>
+
 </p>
     
 
@@ -46,15 +41,23 @@ Sou um apaixonado por programação e atualmente estudo Ciência da Computação
 ### ⚡ Minhas especialidades
 - Java sendo a minha principal linguagem de programação em meus estudos, projetos e realizações pessoais.
 - IntelliJ IDEA como a minha IDE mais utilizada.
+- Spring como framework backend principalmente na construção de API's restfull e persistência de dados.
 - Os bancos de dados MySQL e PostgreSQL sendo os que possuo maior familiaridade.
 - Meus projetos usando a linguagem de programação Python e suas ferramentas.
-- IDE utilizada no início da minha jornada como developer assim como minha linguagem inicial.
+- Visual Studio Code
 - Marcação e estilização de hyper texto.
 - GitHub como a rede social que eu mais utilizo nos dias atuais.
 - Gestão de tarefas com o Click Up.
+- Postman pode ser utilizado para documentação de API's mas tenho usado para realizar testes na persistência de dados.
+- Builders para os projetos principalmente com Java e Spring no IntelliJ.
+- Git é importante para o versionamento de código, atualmente consigo usar apenas o GitHub desktop, necessitando de aprender Git por linhas de comando.
+- Swagger para documentação das API's.
 
-[![My Skills](https://skillicons.dev/icons?i=java,idea,mysql,postgres,python,anaconda,pycharm,flask,vscode,js,html,css,github)](https://skillicons.dev)
-<img src="https://cdn.simpleicons.org/clickup/7B68EE" alt="ClickUp" width="50" height="50"/>
+
+[![My Skills](https://skillicons.dev/icons?i=java,idea,spring,mysql,postgres,python,anaconda,pycharm,flask,vscode,js,html,css,github,postman,gradle,maven,git)](https://skillicons.dev)
+
+
+<img src="https://cdn.simpleicons.org/clickup/7B68EE" alt="ClickUp" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="50" height="50" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px; margin-left: 10px;"/>
 
 
 
