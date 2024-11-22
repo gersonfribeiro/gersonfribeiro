@@ -21,7 +21,7 @@ Sou um apaixonado por programação e atualmente estudo Ciência da Computação
 - Docker para criação dos containers e imagens para deploy.
 - Kotlin é a linguagem que faz parte do nicho do IntelliJ rodando junto com o Java sendo um dos meus focos futuros como co-linguagem.
 - Messageria.
-- Hospedagens de projetos e bancos de dados.
+- Hospedagens de projetos e bancos de dados assim como o AWS mas com Heroku e Railway
 
 
 <p align="center">
