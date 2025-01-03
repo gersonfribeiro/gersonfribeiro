@@ -8,17 +8,20 @@ Sou um apaixonado por programação e atualmente estudo Ciência da Computação
 ## 
 
 
-### 👨‍💻 Atualmente
+### 👨‍💻 Onde trabalhei:
 
-- 🔭 Trabalho na **[Sier Móveis](https://siermoveis.com.br/port/)** na área de cronoanálise, focando na quantificação da capacidade produtiva da indústria.
+- 🔭 Trabalhei na **[Sier Móveis](https://siermoveis.com.br/port/)** na área de cronoanálise, focando na quantificação da capacidade produtiva da indústria.
+
+### 👨‍💻 Atualmente:
+- 🔭 Atualmente trabalho na **[Tek System informática](https://homepage.teksystem.com.br/)** como desenvolvedor Jr.
   
 ### 🌱 Estou aprendendo:
 - Hibernate como um ORM para trabalhar com JPA.
-- Angular como framework frontend solidificando o melhor ambiente possível para projetos com Java.
+- Angular como framework frontend.
 - Node para módulos necessários para o desenvolvimento de alguns projetos.
 - Vite e Vue, são ferramentas de construção de projetos de frontend que se destina a oferecer uma experiência de desenvolvimento mais rápida e leve para projetos web modernos.
 - AWS para serviço de Cloud.
-- Docker para criação dos containers e imagens para deploy.
+- Docker para criação dos containers e imagens dos projetos.
 - Kotlin é a linguagem que faz parte do nicho do IntelliJ rodando junto com o Java sendo um dos meus focos futuros como co-linguagem.
 - Messageria.
 - Hospedagens de projetos e bancos de dados assim como o AWS mas com Heroku e Railway
@@ -84,22 +87,3 @@ Sou um apaixonado por programação e atualmente estudo Ciência da Computação
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gersonfribeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-
-
-
-<!--
-**gersonfribeiro/gersonfribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
-
-<!-- 
-##
-
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma)](https://skillicons.dev)
-
-
-##
--->
