@@ -17,26 +17,18 @@ Sou um apaixonado por programação e atualmente estudo Ciência da Computação
 - 🔭 Atualmente trabalho na **[Tek System informática](https://homepage.teksystem.com.br/)** como desenvolvedor Jr.
   
 ### 🌱 Estou aprendendo:
-- Hibernate como um ORM para trabalhar com JPA.
-- Angular como framework frontend.
 - Node para módulos necessários para o desenvolvimento de alguns projetos.
-- Vite e Vue, são ferramentas de construção de projetos de frontend que se destina a oferecer uma experiência de desenvolvimento mais rápida e leve para projetos web modernos.
-- AWS para serviço de Cloud.
-- Docker para criação dos containers e imagens dos projetos.
-- Kotlin é a linguagem que faz parte do nicho do IntelliJ rodando junto com o Java sendo um dos meus focos futuros como co-linguagem.
+- Vite com ferramenta de construção de projetos de frontend.
+- Vue como framework frontend.
+- Kotlin é a linguagem que faz parte do nicho do IntelliJ rodando junto com a JDK do Java sendo um dos meus focos futuros como co-linguagem.
 - Messageria.
-- Hospedagens de projetos e bancos de dados assim como o AWS mas com Heroku e Railway
 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=hibernate,angular,nodejs,vite,vue,aws,docker,kotlin,rabbitmq,heroku" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,vite,vue,kotlin,rabbitmq" alt="My Skills"/>
   </a>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg" width="50" height="50" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px; margin-left: 10px;"/>
-
 </p>
-    
 
   
 ##
@@ -45,24 +37,31 @@ Sou um apaixonado por programação e atualmente estudo Ciência da Computação
 ### ⚡ Minhas especialidades
 - Java sendo a minha principal linguagem de programação em meus estudos, projetos e realizações pessoais.
 - IntelliJ IDEA como a minha IDE mais utilizada.
-- Spring como framework backend principalmente na construção de API's restfull e persistência de dados.
+- Spring Boot como framework backend principalmente na construção de API's restfull e persistência de dados.
 - Os bancos de dados MySQL e PostgreSQL sendo os que possuo maior familiaridade.
+- AWS como serviço de cloud onde utilizo EC2, S3, RDS e demais funcionalidades como o Route 53.
+- Docker para trabalhar com containers.
 - Meus projetos usando a linguagem de programação Python e suas ferramentas.
 - Visual Studio Code
-- Marcação e estilização de hyper texto.
-- GitHub como a rede social que eu mais utilizo nos dias atuais.
-- Gestão de tarefas com o Click Up.
-- Postman pode ser utilizado para documentação de API's mas tenho usado para realizar testes na persistência de dados.
+- Os pilares do desenvolvimento web sendo a tríplice do Js, Html e Css.
+- GitHub como a rede social que eu mais utilizo nos dias atuais além de publicar meus projetos.
+- Git para o versionamento dos meus projetos usando o fluxo de trabalho da convenção git-flow.
+- Postman pode ser utilizado para documentação de API's mas tenho usado para realizar testes em minhas API's.
 - Builders para os projetos principalmente com Java e Spring no IntelliJ.
-- Git é importante para o versionamento de código, atualmente consigo usar apenas o GitHub desktop, necessitando de aprender Git por linhas de comando.
+- Gestão de tarefas com o Click Up.
 - Swagger para documentação das API's.
 
+<br/>
 
-[![My Skills](https://skillicons.dev/icons?i=java,idea,spring,mysql,postgres,python,anaconda,pycharm,flask,vscode,js,html,css,github,postman,gradle,maven,git)](https://skillicons.dev)
-
-
-<img src="https://cdn.simpleicons.org/clickup/7B68EE" alt="ClickUp" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="50" height="50" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px; margin-left: 10px;"/>
-
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,idea,spring,mysql,postgres,aws,docker,python,anaconda,pycharm,flask,vscode,js,html" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=github,git,postman,gradle,maven" alt="My Skills"/>
+  </a>
+  <br/>
+  <img src="https://cdn.simpleicons.org/clickup/7B68EE" alt="ClickUp" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="Swagger" width="50" height="50"/>
+</div>
 
 
 ##
