@@ -11,7 +11,7 @@ Sou um apaixonado por programação e atualmente estudo Ciência da Computação
 ### 👨‍💻 Onde trabalhei:
 
 - 🔭 Trabalhei na **[Sier Móveis](https://siermoveis.com.br/port/)** na área de cronoanálise, focando na quantificação da capacidade produtiva da indústria.
-- 👨‍💻 Também estive envolvido em atividades de desenvolvimento de softwares onde desenvolvi alguns sistemas e aplicações web como por exemplo o sistema de facturas e a aplicação de apontamentos de crono-analise.
+- 👨‍💻 Também estive envolvido em atividades de desenvolvimento de softwares onde desenvolvi alguns sistemas e aplicações web como por exemplo o sistema de facturas e a aplicação de apontamentos de cronoanálise.
 
 ### 👨‍💻 Atualmente:
 - 🔭 Atualmente trabalho na **[Tek System informática](https://homepage.teksystem.com.br/)** como desenvolvedor Jr.
