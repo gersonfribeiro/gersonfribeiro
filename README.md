@@ -25,13 +25,14 @@ Sou um apaixonado por programação e atualmente estudo Ciência da Computação
 - Python.
 - Android Studio.
 - Linux.
+- Kubernetes.
 - Delphi.
 - CI/CD.
 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,rabbitmq,nginx,mongodb,jenkins,python,androidstudio,linux" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,rabbitmq,nginx,mongodb,jenkins,python,androidstudio,linux,kubernetes" alt="My Skills"/>
   </a>
 </p>
 
